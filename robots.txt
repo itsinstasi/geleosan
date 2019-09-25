@@ -1,2 +1,2 @@
 ﻿User-agent: *
-Sitemap: https://geleosan.itsinsta.site/sitemap.xml
+Sitemap: http://geleosan.itsinsta.site/sitemap.xml
